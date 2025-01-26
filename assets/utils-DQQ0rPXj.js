@@ -1,0 +1,1 @@
+import{a as o}from"./data-BvAuDMIv.js";function u(){const n=o();return{textString:(t,r)=>t.length>r?t.substr(0,r)+"...":t,getImageUrl:(t,r)=>"/images/"+t+"/"+r,notify:(t,r="primary")=>{n.notify({position:"top",message:t,color:r,actions:[{icon:"close",round:!0,color:"white",handler:()=>{}}]})}}}export{u};
