@@ -1,0 +1,1 @@
+import{c as u,G as e,H as s}from"./index-veDMa-k8.js";const n={dark:{type:Boolean,default:null}};function o(a,r){return u(()=>a.dark===null?r.dark.isActive:a.dark)}function c(){return e(s)}export{o as a,c as b,n as u};
